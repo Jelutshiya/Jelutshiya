@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning bachelors in Engineering
   
-- 📫 How to reach me jelutshiyam2gmail.com
+- 📫 How to reach me jelutshiyam@gmail.com
 
 
 <!---
